@@ -7,7 +7,15 @@
 
 
 ### Les choses à savoir sur moi...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-Je suis un apprenti de première année🎓 [à l'école La Plateforme](https://laplateforme.io/)** Je suis un passionné d'informatique, de technologies et de cybersécurité💻. J’aime apprendre, relever des défis et explorer des solutions pour protéger les systèmes et les données dans un monde numérique en constante évolution.
+Je suis un apprenti de première année🎓 [à l'école La Plateforme📙](https://laplateforme.io/) Passionné par l'informatique, les technologies et la cybersécurité,🤖 j'aime comprendre les systèmes, résoudre des problèmes complexes et contribuer à protéger les données dans un monde numérique en constante évolution.
+
+### ⚙️ Langages de programmation
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>
+
 
 
 

@@ -1,5 +1,9 @@
 # Salut! je suis MATHIEU 👋
 
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Bonjour! je suis Mathieu" src="./assets/gh-readme-header.png" /></a></p>
+
+<br />
+
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 ### 📬 Retrouvez-moi sur

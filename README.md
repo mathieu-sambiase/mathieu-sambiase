@@ -1,17 +1,23 @@
-## Hi there 👋
-<h1 align="center">Salut 👋, je suis mathieu-sambiase</h1>
-<h3 align="center">Un développeur frontend passionné de France</h3>
+# Bienvenue sur mathieu-sambiase 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mathieu-sambiase&label=Profile%20views&color=0e75b6&style=flat" alt="mathieu-sambiase" /> </p> <p align="left"
 
-> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mathieu-sambiase" alt="mathieu-sambiase" /></a> </p>
+## Languages et outils
 
-<h3 align="left">Contactez-moi :</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Langues et outils :</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" cible="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+[![CSS](https://img.shields.io/badge/-CSS3-000?&logo=CSS3&logoColor=1572B6)](https://developer.mozilla.org/fr/docs/Web/CSS)
+[![HTML](https://img.shields.io/badge/-HTML5-000?&logo=HTML5&logoColor=E34F26)](https://www.w3.org/html/)
+
+[![Git](https://img.shields.io/badge/-Git-000?&logo=Git&logoColor=F05032)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.github.com/)
+
+
+
+## Quelques stats
+
+![Contributions GitHub](https://github-readme-stats.vercel.app/api?username=dreeckan&custom_title=Contributions%20GitHub&show_icons=true&locale=fr&count_private=true&hide=stars,issues&bg_color=0d1117&hide_border=true&icon_color=52BFEA&text_color=FFF&title_color=52BFEA)
+
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dreeckan&hide_border=true&locale=fr&background=0d1117&ring=52BFEA&stroke=52BFEA&fire=52BFEA&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats) 
+
 
 
 <!--

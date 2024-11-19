@@ -3,7 +3,7 @@
 ### 📬 Retrouvez-moi sur
 [![Github Badge](http://img.shields.io/badge/-Github-black?style=flat-square&logo=github&link=https://github.com/mathieu-sambiase/)](https://github.com/mathieu-sambiase/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mathieu-sambiase@laplaetforme.io)](mathieu-sambiase@laplaetforme.io)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/)]
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:/)
 
 
 
